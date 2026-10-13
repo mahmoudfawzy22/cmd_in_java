@@ -1,0 +1,16 @@
+# Maven build output
+target/
+
+# Compiled files
+*.class
+
+# Logs
+*.log
+
+# Secrets and local config
+.env
+*.env
+application-local.properties
+
+# VS Code
+.vscode/
